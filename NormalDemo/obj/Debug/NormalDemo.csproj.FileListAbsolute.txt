@@ -1,0 +1,6 @@
+C:\Users\WangHailin\Projects\C#\NormalDemo\NormalDemo\bin\Debug\NormalDemo.exe.config
+C:\Users\WangHailin\Projects\C#\NormalDemo\NormalDemo\bin\Debug\NormalDemo.exe
+C:\Users\WangHailin\Projects\C#\NormalDemo\NormalDemo\bin\Debug\NormalDemo.pdb
+C:\Users\WangHailin\Projects\C#\NormalDemo\NormalDemo\obj\Debug\NormalDemo.csprojResolveAssemblyReference.cache
+C:\Users\WangHailin\Projects\C#\NormalDemo\NormalDemo\obj\Debug\NormalDemo.exe
+C:\Users\WangHailin\Projects\C#\NormalDemo\NormalDemo\obj\Debug\NormalDemo.pdb
